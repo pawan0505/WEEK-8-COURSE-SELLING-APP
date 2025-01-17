@@ -1,6 +1,4 @@
 const {Schema, default: mongoose} = require("mongoose");
-console.log("connected to")
-mongoose.connect("mongodb+srv://pawank050520k:Pawank050520k%40@cluster0.rs0up.mongodb.net/coursera-app");
 // const {Schema} = require("mongoose"); single line of code and below 2 lines of code means the same
 // const mongoose = require("mongoose");
 // const Schema = mongoose.schema
