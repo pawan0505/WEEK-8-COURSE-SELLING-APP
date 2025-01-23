@@ -1,4 +1,4 @@
-const {Schema, default: mongoose} = require("mongoose");
+const { Schema } = require("mongoose");
 // const {Schema} = require("mongoose"); single line of code and below 2 lines of code means the same
 // const mongoose = require("mongoose");
 // const Schema = mongoose.schema
